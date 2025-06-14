@@ -9,6 +9,6 @@ Tools Used:
 How to Run:
 1. Start Apache and MySQL from XAMPP control panel.
 2. Open browser and visit:
-   htt
+   http://localhost/apexphpintern/task-1/settingenivi.php
 
 This confirms the environment is ready for PHP and MySQL web development.
